@@ -2,12 +2,18 @@ Package: alexcipro
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Ciprian",
+           family = "Alexandru",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+           email = "alexcipro@gmail.com",
+           comment = c(ORCID = "0000-0001-8215-6671"))
 Description: What the package does (one paragraph).
 License: What license it uses
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/alexcipro/alexcipro
+BugReports: https://github.com/alexcipro/alexcipro/issues
+RoxygenNote: 6.1.1
+Suggests: 
+    spelling
+Language: en-US

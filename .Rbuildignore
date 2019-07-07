@@ -1,2 +1,5 @@
 ^alexcipro\.Rproj$
 ^\.Rproj\.user$
+^\.circleci/config\.yml$
+^README\.Rmd$
+^data-raw$
